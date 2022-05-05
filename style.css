@@ -1,0 +1,79 @@
+body{
+    background-image: url("https://images3.alphacoders.com/100/thumbbig-1009979.webp");
+  
+    background-size: 100%;
+    
+    line-height: 1.2em;
+    margin:25px;
+    font: 10px;
+    }
+#navebar1{
+    width: 240px;
+    height: 122px;
+    background: rgb(44, 255, 44);
+    border-radius: 50px;
+    margin-top:150px ;
+    box-shadow: 2px 2px 4px;
+    margin-left: 900px;
+}
+#navebar1 ul {
+    margin-bottom: 100px;
+    margin-left: 55px;
+   
+}
+#navebar1 h3{
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.container1 h3{
+    width: 178px;
+    height: 30px;
+    background: #EC7063;
+    border-radius: 50px;
+    margin-left: 550px;
+    margin-top: 70px;
+    box-shadow: 2px 2px 4px;
+}
+#navebar2 {
+    height: 200px;
+    width: 220px;
+    background: #00ffff;
+    border-radius: 45px;
+    box-shadow: 2px 2px 4px;
+    margin-left:550px;
+    margin-top:-140px;
+}
+#navebar2 h3 {
+    margin-left: 86px;
+}
+#hii{
+    height: 60px;
+    width: 100%;
+    background: #ff5f1f;
+    border-radius: 20px;
+    margin-top:10px;
+    box-shadow:2px 2px 4px;
+}
+#hii h1{
+   
+    margin-left:430px;
+    font-size: 50px;
+    margin-top:50px;
+}
+#navebar3{
+    height:200px ;
+    width: 400px;
+    background: #663399;
+    margin-left: 10px;
+    margin-top:  -220px;
+    border-radius: 50px;
+   
+
+}
+#navebar3 h3{
+    
+    margin-left: 150px;
+}
+#navebar3 ul{
+     
+    }
